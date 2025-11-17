@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zafrr
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python c++ and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :just contact me on this github
+- cybersecurity practitioner
+- 🌱 python major with the idea of c language and javascript development
+looking for a collaboration for further development
+- 📫 How to reach me : contact me on this github 
 
 <!---
 zafrr/zafrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
